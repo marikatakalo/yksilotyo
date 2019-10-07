@@ -1,1 +1,2 @@
-# yksilotyo
+# GIT+Github yksilötehtävä
+###### Marika Takalo
